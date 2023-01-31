@@ -5,7 +5,8 @@ Currently there are scripts to
 
 1) Enable Dolby Atmos for Headphones
 
-TBA
-Adjust audio device speaker configuration to 5.1
 
-Adjust audio device speaker configuration to 7.1
+TBA
+
+2) Adjust audio device speaker configuration to 5.1
+3) Adjust audio device speaker configuration to 7.1
