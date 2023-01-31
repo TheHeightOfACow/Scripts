@@ -7,4 +7,5 @@ Currently there are scripts to
 
 TBA
 Adjust audio device speaker configuration to 5.1
+
 Adjust audio device speaker configuration to 7.1
